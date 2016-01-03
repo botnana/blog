@@ -1,10 +1,10 @@
 # Botnana A2
 
-#### An Industrial Eternet and IoT Platform (工業以太網物聯網開發平台)
+#### An Industrial Ethernet and IoT Platform (工業以太網物聯網開發平台)
 
 Botnana A2 is an industrial Ethernet development platform. Designed and developed by Mapacode Inc., targeting specifically towards industrial education and automation development. Mapacode Inc. uses it as for it’s own CNC products.
 
-Botnana A2 is compatible with Raspberry Pi Model B+ pins, in addition, it incorporates 2 sets of RJ45 connectors. Inbuilt basic essential industrial Ethernet and IoT (Internet of Things) software, well suited for R & D personnel or students to experiment on various innovative ideas in the era of industrial Ethernet and IoT.
+Botnana A2's a variation of BeagleBone Black, but with both Mii ports on the CPU supported instead one. It incorporates 2 sets of RJ45 connectors in order to fulfill the requirements of EtherCAT master/slave. It's 40-pin connector is compatible with Raspberry Pi Model B+ , another 30 pin connector provides 24V and analog inputs. Inbuilt basic essential industrial Ethernet and IoT (Internet of Things) software, well suited for R & D personnel or students to experiment on various innovative ideas in the era of industrial Ethernet and IoT.
 
 針對工業教育以及工業自動化開發，由動程科技設計的工業以太網開發平台 BotBone，和樹莓派 Model B+ 的腳位相容，方便運用現在樹莓派子板。具有 2 組 RJ45， 內建基本工業以太網／工業物聯網軟體，方便研發人員或學生實驗各種工業以太網／物聯網的構想。
 
