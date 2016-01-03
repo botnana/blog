@@ -1,5 +1,6 @@
-# Botnana A2 Industrial Eternet and Internet of Things Development Platform
-# 工業以太網物聯網開發平台
+# Botnana A2
+
+#### An Industrial Eternet and IoT Platform (工業以太網物聯網開發平台)
 
 Botnana A2 is an industrial Ethernet development platform. Designed and developed by Mapacode Inc., targeting specifically towards industrial education and automation development. Mapacode Inc. uses it as for it’s own CNC products.
 
@@ -22,13 +23,18 @@ removed HDMI, for sample run 2
 * 1x microSD
 * NEON floating-point accelerator
 * 2x PRU 32-bit microcontrollers
+
 ### Software
-1. Debian Linux
+
+#### As Master
+* Debian Linux
 * with Real-time extenstion (Xenomai)
 * EtherCAT master
 * M2M Server
-1. TI SYS/BIOS
-* 支援 EtherCAT slave, Powerlink, Ethernet/IP, ProfiNET
+
+#### As Slave
+* TI SYS/BIOS
+* support EtherCAT slave, Powerlink, Ethernet/IP, ProfiNET
 
 ### Connectivity
 * USB 2.0 client for power and communication (USB0), microUSB
@@ -39,5 +45,5 @@ removed HDMI, for sample run 2
 * 2 x SPI, 3 x I2C, 2 x CAN, 4 x Timers, 2 x eQEP, PWMs, 2 x eCAP, 4 x UARTs, 7 Analog inputs, 29 GPIOs
 
 ### Power
-5V through micro USB
-5.5V-36V through 3.96 connector
+* 5V through micro USB
+* 5.5V-36V through 3.96 connector
