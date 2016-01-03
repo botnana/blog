@@ -52,5 +52,5 @@ removed HDMI, for sample run 2
 
 ### Images
 
-![Botnana A2](/images/botnana-a2.png)
+![Botnana A2](/images/botnana-a2.jpg)
 
