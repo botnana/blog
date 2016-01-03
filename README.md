@@ -49,3 +49,8 @@ removed HDMI, for sample run 2
 ### Power
 * 5V through micro USB
 * 5.5V-36V through 3.96 connector
+
+### Images
+
+![Botnana A2](/images/botnana-a2.png)
+
