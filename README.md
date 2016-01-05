@@ -2,6 +2,10 @@
 
 By Cheng-Chang Wu (吳政昌) at [Mapacode Inc. 動程科技](http://www.mapacode.tw)
 
+Google Group at [https://groups.google.com/forum/#!forum/botnana](https://groups.google.com/forum/#!forum/botnana)。
+
+Webseit at http://botnana.mapacode.tw , English version still under development.
+
 #### An Industrial Ethernet and IoT Platform (工業以太網物聯網開發平台)
 
 Botnana A2 is an industrial Ethernet development platform. Designed and developed by Mapacode Inc., targeting specifically towards industrial education and automation development. Mapacode Inc. uses it for internal development of CNC products.
